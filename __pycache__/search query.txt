@@ -1,0 +1,5 @@
+Voltaren	diclofenac OR MESH.EXACT.EXPLODE("Diclofenac") OR EMB.EXACT.EXPLODE("diclofenac") OR subst.exact("Diclofenac" OR "diclofenac" OR "diclofenac emulgel" OR "diclofenac epolamine" OR "diclofenac hydroxyethylpyrrolidine" OR "diclofenac potassium")
+
+Fenbid	ibuprofen OR MESH.EXACT.EXPLODE("Ibuprofen") OR EMB.EXACT.EXPLODE("ibuprofen") OR subst.exact("Ibuprofen" OR "ibuprofen")
+
+Panadol	ti,ab(paracetamol OR acetaminophen) OR EMB.EXACT.EXPLODE("paracetamol") OR MESH.EXACT.EXPLODE("Acetaminophen") OR subst.exact("paracetamol")
